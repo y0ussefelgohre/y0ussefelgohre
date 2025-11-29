@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Y0ussef</h1>
-<h3 align="center">A passionate (still beginner) bug bounty hunter from 🇪🇬</h3>
+<h3 align="center">A passionate bug bounty hunter trying to level up everyday</h3>
 
 <p align="center"> <a href="https://twitter.com/y0ussefelgohre" target="blank"><img src="https://img.shields.io/twitter/follow/y0ussefelgohre?logo=twitter&style=for-the-badge" alt="y0ussefelgohre" /></a> </p>
 
