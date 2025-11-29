@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Y0ussef</h1>
 <h3 align="center">A passionate (still beginner) bug bounty hunter from 🇪🇬</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=y0ussefelgohre&label=Profile%20views&color=0e75b6&style=flat" alt="y0ussefelgohre" style="padding:10px"/> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ussefelgohre" alt="y0ussefelgohre" /></a> </p>
+<p align="left" style="padding-inline: 10px;"> <img src="https://komarev.com/ghpvc/?username=y0ussefelgohre&label=Profile%20views&color=0e75b6&style=flat" alt="y0ussefelgohre" > </p>
 
-<p align="left"> <a href="https://twitter.com/y0ussefelgohre" target="blank"><img src="https://img.shields.io/twitter/follow/y0ussefelgohre?logo=twitter&style=for-the-badge" alt="y0ussefelgohre" /></a> </p>
+<p align="left style="padding-inline: 10px;""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ussefelgohre" alt="y0ussefelgohre" /></a> </p>
+
+<p align="left" style="padding-inline: 10px;"> <a href="https://twitter.com/y0ussefelgohre" target="blank"><img src="https://img.shields.io/twitter/follow/y0ussefelgohre?logo=twitter&style=for-the-badge" alt="y0ussefelgohre" /></a> </p>
 
 - 🔭 I’m currently working on [enumSH](https://github.com/y0ussefelgohre/enumSH)
 
